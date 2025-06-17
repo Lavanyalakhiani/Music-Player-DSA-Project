@@ -5,7 +5,7 @@ This is the project made for Data Structures and Algorithm Course. Here we imple
 
 # OUTPUT
 
-![image](https://github.com/Lavanyalakhiani/Music-Player/assets/124029579/4acf4ecb-b396-46b0-bb73-faafc4dd39e1)
+![image](https://github.com/Lavanyalakhiani/Music-Player/assets/124029579/4acf4ecb-b396-46b0-bb73-faafc4dd39e1) 
 
 
 ![image](https://github.com/Lavanyalakhiani/Music-Player/assets/124029579/6900d473-8fa5-4c27-8005-c88001352fca)
